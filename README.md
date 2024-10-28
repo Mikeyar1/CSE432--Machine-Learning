@@ -1,2 +1,3 @@
-# CSE432--Machine-Learning
-CSE432 - Machine Learning
+# CSE432 - Machine-Learning, Miami University
+Machine learning projects and assignments used at the course 
+
